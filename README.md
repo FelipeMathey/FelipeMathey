@@ -19,5 +19,5 @@
    </div>
 
    <div>
-<img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dracula"/>  
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dracula"/>  
    </div>
